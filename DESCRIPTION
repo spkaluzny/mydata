@@ -1,0 +1,10 @@
+Package: mydata
+Type: Package
+Title: My Miscellaneous Data Sets
+Version: 0.1.0
+Author: Stephen Kaluzny
+Maintainer: maintainer <yourself@somewhere.net>
+Description: Data sets I have collected created.
+License: MIT
+Encoding: UTF-8
+LazyData: true
