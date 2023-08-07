@@ -451,8 +451,8 @@ Date,N,Country,Guess,Note
 2023-07-23,548,Ethiopia,1
 2023-07-24,549,Thailand,2
 2023-07-25,550,Panama,1
-2023-07-26,551,
-2023-07-27,552,
+2023-07-26,551,,
+2023-07-27,552,,
 2023-07-28,553,Serbia,1
 2023-07-29,554,,
 2023-07-30,555,Democratic Republic of the Congo,3
@@ -462,3 +462,5 @@ Date,N,Country,Guess,Note
 2023-08-03,559,Montenegro,3
 2023-08-04,560,Finland,2
 2023-08-05,561,Central African Republic,2
+2023-08-06,562,Argentina,2
+2023-08-07,563,Ukraine,1
