@@ -1,0 +1,35 @@
+---
+title: "Pizza Delivery Data Report" 
+author: "Stephen Kaluzny"
+format: html
+---
+
+## Read Data
+Read the data.
+```{r read_data}
+d <- read.csv(file.path(here::here(), "data", "pagliacci_delivery.csv"))
+d[["Date"]] <- as.Date(d[["Date"]])
+```
+
+## Verify Data
+
+Verify Date
+```{r Date_check}
+minDate <- as.Date("2022-02-18")
+stopifnot(all(d[["Date"]] >= minDate))
+stopifnot(all(d[["Date"]] <= Sys.Date()))
+```
+
+Verify Predicted
+```{r Predicted_check}
+stopifnot(!is.na(d[["Predicted"]]))
+stopifnot(all(d[["Predicted"]] > 25))
+stopifnot(all(d[["Predicted"]] < 120))
+```
+
+Verify Observed
+```{r Observed_check}
+stopifnot(!is.na(d[["Observed"]]))
+stopifnot(all(d[["Observed"]] > 20))
+stopifnot(all(d[["Observed"]] < 120))
+```
