@@ -28,7 +28,7 @@ Date,N,Country,Guess,Note
 2022-05-27,NA,Uganda,4,
 2022-05-28,NA,Bhutan,3,
 2022-05-29,NA,Fiji,4,Map
-2022-05-30,NA,Eritria,1,
+2022-05-30,NA,Eritrea,1,
 2022-05-31,NA,Paraguay,3,
 2022-06-01,NA,Saint Helena,7,
 2022-06-02,NA,USA,1,
@@ -58,7 +58,7 @@ Date,N,Country,Guess,Note
 2022-06-26,NA,Iceland,3,
 2022-06-27,NA,Moldova,3,
 2022-06-28,NA,Norway,2,
-2022-06-29,NA,Sychelles,2,
+2022-06-29,NA,Seychelles,2,
 2022-06-30,NA,Moldova,1R,
 2022-07-01,NA,Venezuela,7,
 2022-07-02,NA,Montenegro,3,
@@ -517,7 +517,7 @@ Date,N,Country,Guess,Note
 2023-09-27,614,Turkmenistan,3
 2023-09-28,615,Gabon,3
 2023-09-29,616,Colombia,4
-2023-09-30,617,Afganistan,1
+2023-09-30,617,Afghanistan,1
 2023-10-01,618,Belarus,3
 2023-10-02,619,El Salvador,3
 2023-10-03,620,Cambodia,6
@@ -715,3 +715,6 @@ Date,N,Country,Guess,Note
 2024-04-12,812,Equatorial Guinea,1
 2024-04-13,813,Dominica,3
 2024-04-14,814,Djibouti,4
+2024-04-15,815,China,1
+2024-04-16,816,Chile,1
+2024-04-17,817,Antarctica,2
