@@ -787,10 +787,10 @@ Date,N,Country,Guess,Note
 2024-06-23,884,Sao Tome and Principe,2
 2024-06-24,885,New Zealand,1
 2024-06-25,886,Isle of Man,6
-2024-06-26,887,NA
-2024-06-27,888,NA
+2024-06-26,887,Sudan,NA
+2024-06-27,888,Dominican Republic,NA
 2024-06-28,889,Nigeria,2
-2024-06-29,890,
+2024-06-29,890,Yemen,NA
 2024-06-30,891,Tunisia,2
 2024-07-01,892,Falkland Islands,2
 2024-07-02,893,Uganda,3
@@ -803,3 +803,5 @@ Date,N,Country,Guess,Note
 2024-07-09,900,Zambia,1
 2024-07-10,901,Guatemala,2
 2024-07-11,902,French Southern Territories
+2024-07-12,903,Costa Rica,NA
+2024-07-13,904,Christmas Island,4
