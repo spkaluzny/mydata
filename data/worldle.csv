@@ -99,7 +99,7 @@ Date,N,Country,Guess,Note
 2022-08-05,NA,Hungary,5,
 2022-08-06,NA,Japan,1,
 2022-08-07,NA,Lithuania,6,
-2022-08-08,NA,Macao,4,
+2022-08-08,NA,Macau,4,
 2022-08-09,NA,Nicaragua,NA,
 2022-08-10,NA,Oman,1,
 2022-08-11,NA,Somalia,1,
@@ -960,3 +960,5 @@ Date,N,Country,Guess,Note
 2024-12-12,1056,Guyana,5
 2024-12-13,1057,Liberia,7
 2024-12-14,1058,Norway,1
+2024-12-15,1059,Haiti,6
+2024-12-16,1560,Macau,7
