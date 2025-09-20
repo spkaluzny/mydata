@@ -31,7 +31,7 @@ Date,N,Country,Guess,Note
 2022-05-30,NA,Eritrea,1,
 2022-05-31,NA,Paraguay,3,
 2022-06-01,NA,Saint Helena,7,
-2022-06-02,NA,USA,1,
+2022-06-02,NA,United States,1,
 2022-06-03,NA,Bulgaria,3,
 2022-06-04,NA,Djibouti,4,
 2022-06-05,NA,Gambia,5,
@@ -1169,7 +1169,7 @@ Date,N,Country,Guess,Note
 2025-07-09,1265,Antarctica,3
 2025-07-10,1266,Trinidad and Tobago,2
 2025-07-11,1267,Nauru,7
-2025-07-12,1268,Iran;3
+2025-07-12,1268,Iran,3
 2025-07-13,1269,Central Africa Republic,2
 2025-07-14,1270,Vietnam,3
 2025-07-15,1271,Papua New Guinea,1
@@ -1236,3 +1236,6 @@ Date,N,Country,Guess,Note
 2025-09-14,1332,Kiribati,7
 2025-09-15,1333,Namibia,1
 2025-09-16,1334,Qatar,4
+2025-09-17,1335,Timor-Leste,4
+2025-09-18,1336,Antarctica,1
+2025-09-19,1337,Cameroon,1
