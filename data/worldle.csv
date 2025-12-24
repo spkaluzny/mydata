@@ -67,7 +67,6 @@ Date,N,Country,Guess,Note
 2022-07-05,NA,Kuwait,6,
 2022-07-06,NA,Belarus,3,
 2022-07-07,NA,Brazil,4,
-2022-07-07,NA,Brazil,4,
 2022-07-08,NA,Burundi,3,
 2022-07-09,NA,Pakistan,2,
 2022-07-10,NA,San Marino,7,
@@ -141,6 +140,7 @@ Date,N,Country,Guess,Note
 2022-09-15,NA,Dominica,6,
 2022-09-16,NA,Mauritania,1,
 2022-09-17,NA,Taiwan,5,
+2022-09-18,NA,NA,NA,
 2022-09-19,NA,Western Sahara,1,
 2022-09-20,NA,Syria,6,
 2022-09-21,NA,Democratic Republic of the Congo,3,
@@ -298,7 +298,7 @@ Date,N,Country,Guess,Note
 2023-02-19,NA,Spain,2,
 2023-02-20,NA,Lesotho,4,
 2023-02-21,NA,Maldives,2,
-2023-02-21,NA,Romania,4,
+2023-02-22,NA,Romania,4,
 2023-02-23,NA,Senegal,1,
 2023-02-24,NA,Venezuela,5,
 2023-02-25,NA,Azerbaijan,4,
@@ -419,6 +419,7 @@ Date,N,Country,Guess,Note
 2023-06-20,514,Iceland,4,
 2023-06-21,515,Latvia,7,
 2023-06-22,516,Saudi Arabia,1,
+2023-06-23,NA,NA,NA,
 2023-06-24,519,Estonia,1,
 2023-06-25,520,Cambodia,5,
 2023-06-26,521,Portugal,2,
@@ -720,9 +721,9 @@ Date,N,Country,Guess,Note
 2024-04-17,817,Antarctica,2,
 2024-04-18,818,Poland,1,
 2024-04-19,819,New Zealand,NA,
-2024-04-19,820,Liberia,1,
-2024-04-19,821,Taiwan,NA,
-2024-04-19,822,Spain,NA,
+2024-04-20,820,Liberia,1,
+2024-04-21,821,Taiwan,NA,
+2024-04-22,822,Spain,NA,
 2024-04-23,823,Oman,1,
 2024-04-24,824,Guam,7,
 2024-04-25,825,Solomon Islands,NA,
@@ -924,7 +925,7 @@ Date,N,Country,Guess,Note
 2024-11-07,1021,Faroe Islands,7
 2024-11-08,1022,Laos,3
 2024-11-09,1023,Romania,3
-2024-11-09,1024,
+2024-11-10,1024,NA,
 2024-11-11,1025,Somalia,1
 2024-11-12,1026,Spain,1
 2024-11-13,1027,Sierra Leone,3
@@ -1246,7 +1247,7 @@ Date,N,Country,Guess,Note
 2025-09-25,1343,Seychelles,4
 2025-09-26,1344,Iceland,1
 2025-09-27,1345,Bhutan,3
-2025-09-27,1346,Sierra Leone,2
+2025-09-28,1346,Sierra Leone,2
 2025-09-29,1347,Ireland,1
 2025-09-30,1348,India,1
 2025-10-01,1349,Estonia,2
@@ -1309,22 +1310,23 @@ Date,N,Country,Guess,Note
 2025-11-27,1406,Turkey,3
 2025-11-28,1407,Sint Maarten,7
 2025-11-29,1408,Saudi Arabia,2
-2025-12-01,1409,Brunei,5
-2025-12-02,1410,Senegal,1
-2025-12-03,1411,Indonesia,1
-2025-12-04,1412,United Kingdom,1
-2025-12-05,1413,Mauritania,1
-2025-12-06,1414,Montserrat,7
-2025-12-07,1415,China,1
-2025-12-08,1416,Slovenia,3
-2025-12-09,1417,Iran,4
-2025-12-10,1418,South Africa,2
-2025-12-11,1419,Turkey,1
-2025-12-12,1420,Zambia,NA
-2025-12-13,1421,Azerbaijan,2
-2025-12-14,1422,Capo Verde,5
-2025-12-15,1423,Cuba,2
-2025-12-16,1424,missed country-noticed number messed up
+2025-11-30,1409,NA,NA
+2025-12-01,1410,Brunei,5
+2025-12-02,1411,Senegal,1
+2025-12-03,1412,Indonesia,1
+2025-12-04,1413,United Kingdom,1
+2025-12-05,1414,Mauritania,1
+2025-12-06,1415,Montserrat,7
+2025-12-07,1416,China,1
+2025-12-08,1417,Slovenia,3
+2025-12-09,1418,Iran,4
+2025-12-10,1419,South Africa,2
+2025-12-11,1420,Turkey,1
+2025-12-12,1421,Zambia,NA
+2025-12-13,1422,Azerbaijan,2
+2025-12-14,1423,Capo Verde,5
+2025-12-15,1424,Cuba,2
+2025-12-16,1425,missed country-noticed number messed up from 2025-11-30
 2025-12-17,1426,Guatemala,1
 2025-12-18,1427,Cyprus,1
 2025-12-19,1428,Finland,2
