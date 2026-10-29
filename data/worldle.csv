@@ -1204,7 +1204,7 @@
 2025-08-15,1302,French Polynesia,7
 2025-08-16,1303,Afghanistan,4
 2025-08-17,1304,Panama,4
-2025-08-18,1305,Guinea Bissau,7
+2025-08-18,1305,Guinea-Bissau,7
 2025-08-19,1306,Belgium,4
 2025-08-20,1307,Kuwait,1
 2025-08-21,1308,Bosnia Herzegovina,6
@@ -1619,7 +1619,7 @@
 2026-10-03,1716,Bulgaria,2
 2026-10-04,1717,Japan,1
 2026-10-05,1718,Belarus,5
-2026-10-06,1719,Guinea Bissau,6
+2026-10-06,1719,Guinea-Bissau,6
 2026-10-07,1720,Norway,1
 2026-10-08,1721,Jordan,2
 2026-10-09,1722,Uzbekistan,1
@@ -1639,3 +1639,7 @@
 2026-10-23,1736,Central African Republic,1
 2026-10-24,1737,Solomon Islands,7
 2026-10-25,1738,Argentina,1
+2026-10-26,1739,Samoa,6
+2026-10-27,1740,French Guiana,4
+2026-10-28,1741,Honduras,NA
+2026-10-29,1742,Aruba,6
